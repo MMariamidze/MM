@@ -1,0 +1,20 @@
+section{
+    display: flex;
+    justify-content: center;
+}
+.contaner{
+width: 1366px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.colm4{
+    width: 25%;
+    padding: 5%;
+    margin: 5%;
+    background-color: aqua;
+}
+.colm6{
+    width: 50%;
+}
